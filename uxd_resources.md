@@ -16,13 +16,13 @@ You do not have to be a great artist to get your point across. Often sketches wi
 
 **Design Pattern Libraries** can be an invaluable resource, it will save you time on repetitive tacks and allow you to build up a set of templates and stencils that suits your style. Paul Boag looks at [How and why to create a pattern library.][11] Notable pattern libraries include – [MailChip][12], [BBC][13] and [The Next Web.][14]
 
-[8]:(http://www.amazon.co.uk/gp/product/0123819598/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0123819598&linkCode=as2&tag=eleventhirty-21)
-[9]:(http://alistapart.com/article/connected-ux)
-[10]:(http://principles.adactio.com)
-[11]:(http://boagworld.com/design/pattern-library)
-[12]:(http://ux.mailchimp.com/patterns)
-[13]:(http://www.bbc.co.uk/gel)
-[14]:(http://styleguide.thenextweb.com)
+[8]:http://www.amazon.co.uk/gp/product/0123819598/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0123819598&linkCode=as2&tag=eleventhirty-21
+[9]:http://alistapart.com/article/connected-ux
+[10]:http://principles.adactio.com
+[11]:http://boagworld.com/design/pattern-library
+[12]:http://ux.mailchimp.com/patterns
+[13]:http://www.bbc.co.uk/gel
+[14]:http://styleguide.thenextweb.com
 
 ###User Journeys
 The workshop looked at user journeys asking you to consider the pathway people will have to take to reach their goal. Amazon for example make the process of purchasing goods as simple as possible to ensure you are met with a seamless journey from finding what you want, adding it to your shopping cart and checking out. 
@@ -33,7 +33,7 @@ We looked at a couple of journeys on websites which offer the same services comp
 
 Comparing a user journey through your project to similar sites or services can prove invaluable. 
 
-[20]:(http://theuxreview.co.uk/user-journeys-beginners-guide)
+[20]:http://theuxreview.co.uk/user-journeys-beginners-guide
 
 ###Experience Mapping
 
@@ -43,9 +43,9 @@ Box UK provide a number of [case studies][16] which are well worth visiting.
 
 UX specialists Adaptive Path's [The Anatomy of an Experience Map][17] provides an excellent overview of the experience mapping process.
 
-[15]:(http://www.adaptivepath.com)
-[16]:(http://www.boxuk.com/case-studies)
-[17]:(http://www.adaptivepath.com/ideas/the-anatomy-of-an-experience-map)
+[15]:http://www.adaptivepath.com
+[16]:http://www.boxuk.com/case-studies
+[17]:http://www.adaptivepath.com/ideas/the-anatomy-of-an-experience-map
 
 ###Voice and Tone
 
@@ -53,8 +53,8 @@ UX specialists Adaptive Path's [The Anatomy of an Experience Map][17] provides a
 
 [The Craft of Words Part One: Macrocopy][18] and [The Craft of Words Part Two: Microcopy][19]
 
-[18]:(http://www.fivesimplesteps.com/products/the-craft-of-words}
-[19]:(http://www.fivesimplesteps.com/products/the-craft-of-words-microcopy)
+[18]:http://www.fivesimplesteps.com/products/the-craft-of-words
+[19]:http://www.fivesimplesteps.com/products/the-craft-of-words-microcopy
 
 ------------------------------
 ###Reading List
@@ -71,9 +71,9 @@ UX specialists Adaptive Path's [The Anatomy of an Experience Map][17] provides a
 
 
 [1]:http://www.amazon.co.uk/gp/product/0262525674/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0262525674&linkCode=as2&tag=eleventhirty-21
-[2]:(http://www.amazon.co.uk/gp/product/0321719905/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0321719905&linkCode=as2&tag=eleventhirty-21)
-[3]:(http://www.fivesimplesteps.com/products/strategic-ux)
-[4]:(http://www.amazon.co.uk/gp/product/142212312X/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=142212312X&linkCode=as2&tag=eleventhirty-21)
-[5]:(http://www.amazon.co.uk/gp/product/0123740371/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0123740371&linkCode=as2&tag=eleventhirty-21)
-[6]:(http://www.amazon.co.uk/gp/product/0262134748/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0262134748&linkCode=as2&tag=eleventhirty-21)
-[7]:(http://www.amazon.co.uk/gp/product/0321657292/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0321657292&linkCode=as2&tag=eleventhirty-21)
+[2]:http://www.amazon.co.uk/gp/product/0321719905/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0321719905&linkCode=as2&tag=eleventhirty-21
+[3]:http://www.fivesimplesteps.com/products/strategic-ux
+[4]:http://www.amazon.co.uk/gp/product/142212312X/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=142212312X&linkCode=as2&tag=eleventhirty-21
+[5]:http://www.amazon.co.uk/gp/product/0123740371/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0123740371&linkCode=as2&tag=eleventhirty-21
+[6]:http://www.amazon.co.uk/gp/product/0262134748/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0262134748&linkCode=as2&tag=eleventhirty-21
+[7]:http://www.amazon.co.uk/gp/product/0321657292/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0321657292&linkCode=as2&tag=eleventhirty-21
