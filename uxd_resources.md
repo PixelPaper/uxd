@@ -4,7 +4,7 @@ Following on from the  user experience design (UXD) Workshop the following list 
 
 We covered a broad range of skills, techniques and approaches involved with UXD. these included:
 
-###Sketching
+**Sketching**
 > "Sketchbooks are not about being a good artist, they are 
 > about being a good thinker.”  Jason Santa Maria.
 
