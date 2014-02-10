@@ -31,11 +31,7 @@ The UX Review provides a useful [User Journeys – The Beginner’s Guide.][20]t
 
 We looked at a couple of journeys on websites which offer the same services comparing how each tackled the tasks
 
-
-----------
-
-
-. Comparing a user journey through your project to similar sites or services can prove invaluable. 
+Comparing a user journey through your project to similar sites or services can prove invaluable. 
 
 [20]:(http://theuxreview.co.uk/user-journeys-beginners-guide)
 
@@ -60,7 +56,8 @@ UX specialists Adaptive Path's [The Anatomy of an Experience Map][17] provides a
 [18]:(http://www.fivesimplesteps.com/products/the-craft-of-words}
 [19]:(http://www.fivesimplesteps.com/products/the-craft-of-words-microcopy)
 
-####Reading List
+------------------------------
+###Reading List
 - Norman, D., 1998. [The Design of Everyday Things.][1] Massachusetts: The MIT Press.
 - Bowles, C. and Box, J., 2010. [Undercover User Experience Design.][2] San Francisco: Voices That Matter.
 - Krug, S., 2013. Don’t Make Me Think: A Common Sense Approach to Web Usability. 3rd ed. San Francisco: New Riders.
