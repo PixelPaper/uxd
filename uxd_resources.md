@@ -60,7 +60,6 @@ UX specialists Adaptive Path's [The Anatomy of an Experience Map][17] provides a
 ###Reading List
 - Norman, D., 1998. [The Design of Everyday Things.][1] Massachusetts: The MIT Press.
 - Bowles, C. and Box, J., 2010. [Undercover User Experience Design.][2] San Francisco: Voices That Matter.
-- Krug, S., 2013. Don’t Make Me Think: A Common Sense Approach to Web Usability. 3rd ed. San Francisco: New Riders.
 - Reichelt, L., 2014. [A Practical Guide to User Experience Design.][3] Five Simple Steps
 - Drucker, P., 2008. [Managing Oneself (Harvard Business Review Classics)][4]. Harvard Business School Press
 
@@ -68,6 +67,7 @@ UX specialists Adaptive Path's [The Anatomy of an Experience Map][17] provides a
 - Buxton, Bill., 2007. [Sketching User Experiences: Getting the Design Right and the Right Design.][5] Massachusetts: Morgan Kaufmann.
 - Moggridge, B., 2006. [Designing Interactions.][6] Massachusetts: The MIT Press.
 - Krug, S., 2009. [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems.][7] San Francisco: New Riders.
+
 
 
 [1]:http://www.amazon.co.uk/gp/product/0262525674/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0262525674&linkCode=as2&tag=eleventhirty-21
