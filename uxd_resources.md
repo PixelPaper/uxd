@@ -51,7 +51,7 @@ UX specialists Adaptive Path's [The Anatomy of an Experience Map][17] provides a
 
 >“Use the right language and we enhance a user’s passage through a site or application; use the wrong language and we stop a user dead in their tracks.” Chris Murphy & Nicklas Persson
 
-[The Craft of Words Part One: Macrocopy][18] and [The Craft of Words Part Two: Microcopy][19]
+To grips with the voice and tone of your project you could do no better than read, [The Craft of Words Part One: Macrocopy][18] and [The Craft of Words Part Two: Microcopy][19]. At only £2.00 each you could download them now and have them read within a couple of hours.
 
 [18]:http://www.fivesimplesteps.com/products/the-craft-of-words
 [19]:http://www.fivesimplesteps.com/products/the-craft-of-words-microcopy
