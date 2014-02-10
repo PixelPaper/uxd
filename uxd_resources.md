@@ -58,7 +58,7 @@ UX specialists Adaptive Path's [The Anatomy of an Experience Map][17] provides a
 
 ------------------------------
 ###Reading List
-- Norman, D., 1998. [The Design of Everyday Things.]:[http://www.amazon.co.uk/gp/product/0262525674/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0262525674&linkCode=as2&tag=eleventhirty-21] Massachusetts: The MIT Press.
+- Norman, D., 1998. [The Design of Everyday Things.][1] Massachusetts: The MIT Press.
 - Bowles, C. and Box, J., 2010. [Undercover User Experience Design.][2] San Francisco: Voices That Matter.
 - Krug, S., 2013. Don’t Make Me Think: A Common Sense Approach to Web Usability. 3rd ed. San Francisco: New Riders.
 - Reichelt, L., 2014. [A Practical Guide to User Experience Design.][3] Five Simple Steps
@@ -70,7 +70,7 @@ UX specialists Adaptive Path's [The Anatomy of an Experience Map][17] provides a
 - Krug, S., 2009. [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems.][7] San Francisco: New Riders.
 
 
-
+[1]:(http://www.amazon.co.uk/gp/product/0262525674/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0262525674&linkCode=as2&tag=eleventhirty-21)
 [2]:(http://www.amazon.co.uk/gp/product/0321719905/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0321719905&linkCode=as2&tag=eleventhirty-21)
 [3]:(http://www.fivesimplesteps.com/products/strategic-ux)
 [4]:(http://www.amazon.co.uk/gp/product/142212312X/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=142212312X&linkCode=as2&tag=eleventhirty-21)
