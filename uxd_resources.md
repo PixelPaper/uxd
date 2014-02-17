@@ -16,8 +16,6 @@ You do not have to be a great artist to get your point across. Often sketches wi
 
 **Design Pattern Libraries** can be an invaluable resource, it will save you time on repetitive tacks and allow you to build up a set of templates and stencils that suits your style. Paul Boag looks at [How and why to create a pattern library.][11] Notable pattern libraries include – [MailChip][12], [BBC][13] and [The Next Web.][14]
 
-A practical exercise looked at how we might redesign the [ATM][21]. With banks offering different experiences through different interfaces, there is a lack of consistency in the process. Global design consultancy [IDEO][22] looked at how the process could be redesigned for the [BBVA Group][23]
-
 [8]:http://www.amazon.co.uk/gp/product/0123819598/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0123819598&linkCode=as2&tag=eleventhirty-21
 [9]:http://alistapart.com/article/connected-ux
 [10]:http://principles.adactio.com
@@ -34,11 +32,14 @@ The workshop looked at user journeys asking you to consider the pathway people w
 
 The UX Review provides a useful [User Journeys – The Beginner’s Guide.][20]to set you on the right path.
 
-We looked at a couple of journeys on websites which offer the same services comparing how each tackled the tasks
+Comparing user journeys through websites which offer the same services can prove invaluable when looking at how your project stands up against the competition. We looked at how the [GOV.UK][24] and [GOV.IE][25] sites tackled a couple of tasks and saw how both offered strikingly different experiences.
 
-Comparing a user journey through your project to similar sites or services can prove invaluable. 
+A practical exercise looked at how we might redesign the [ATM][21]. With banks offering different experiences through different interfaces, there is a lack of consistency in the process. Global design consultancy [IDEO][22] looked at how the process could be redesigned for the [BBVA Group][23]
+
 
 [20]:http://theuxreview.co.uk/user-journeys-beginners-guide
+[24]:https://www.gov.uk
+[25]:http://www.gov.ie
 
 ###Experience Mapping
 
@@ -56,7 +57,7 @@ UX specialists Adaptive Path's [The Anatomy of an Experience Map][17] provides a
 
 >“Use the right language and we enhance a user’s passage through a site or application; use the wrong language and we stop a user dead in their tracks.” Chris Murphy & Nicklas Persson
 
-To get to grips with the voice and tone of your project you could do no better than read, [The Craft of Words Part One: Macrocopy][18] and [The Craft of Words Part Two: Microcopy][19]. At only £2.00 each you could download them now and have them read within a couple of hours.
+To understand the importance and value of well written text and to get to grips with the voice and tone of your project you could do no better than read: [The Craft of Words Part One: Macrocopy][18] and [The Craft of Words Part Two: Microcopy][19]. At only £2.00 each for the eBook versions, you could (should) download them now and have them read within a couple of hours, the lessons learned will stand by you for a lifetime.
 
 [18]:http://www.fivesimplesteps.com/products/the-craft-of-words
 [19]:http://www.fivesimplesteps.com/products/the-craft-of-words-microcopy
