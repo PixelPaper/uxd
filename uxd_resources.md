@@ -32,14 +32,17 @@ The workshop looked at user journeys asking you to consider the pathway people w
 
 The UX Review provides a useful [User Journeys – The Beginner’s Guide.][20]to set you on the right path.
 
-Comparing user journeys through websites which offer the same services can prove invaluable when looking at how your project stands up against the competition. We looked at how the [GOV.UK][24] and [GOV.IE][25] sites tackled a couple of tasks and saw how both offered strikingly different experiences.
+Comparing user journeys through websites which offer the same services can prove invaluable when looking at how your project stands up against the competition. We looked at how the [GOV.UK][24] and [GOV.IE][25] sites tackled a couple of tasks and saw how both offered strikingly different experiences. 
 
-A practical exercise looked at how we might redesign the [ATM][21]. With banks offering different experiences through different interfaces, there is a lack of consistency in the process. Global design consultancy [IDEO][22] looked at how the process could be redesigned for the [BBVA Group][23]
+Well worth a visit, the UK Government have provided an extensive set of [Design Guidelines.][26] 
+
+A practical exercise looked at how we might redesign the [ATM][21]. With banks offering different experiences through different interfaces, there is a lack of consistency in the process. Global design consultancy [IDEO][22] looked at how the process could be redesigned for the [BBVA Group.][23]
 
 
 [20]:http://theuxreview.co.uk/user-journeys-beginners-guide
 [24]:https://www.gov.uk
 [25]:http://www.gov.ie
+[26]:https://www.gov.uk/service-manual
 
 ###Experience Mapping
 
