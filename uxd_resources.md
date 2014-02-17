@@ -16,6 +16,8 @@ You do not have to be a great artist to get your point across. Often sketches wi
 
 **Design Pattern Libraries** can be an invaluable resource, it will save you time on repetitive tacks and allow you to build up a set of templates and stencils that suits your style. Paul Boag looks at [How and why to create a pattern library.][11] Notable pattern libraries include – [MailChip][12], [BBC][13] and [The Next Web.][14]
 
+A practical exercise looked at how we might redesign the [ATM][21]. With banks offering different experiences through different interfaces, there is a lack of consistency in the process. Global design consultancy [IDEO][22] looked at how the process could be redesigned for the [BBVA Group][23]
+
 [8]:http://www.amazon.co.uk/gp/product/0123819598/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0123819598&linkCode=as2&tag=eleventhirty-21
 [9]:http://alistapart.com/article/connected-ux
 [10]:http://principles.adactio.com
@@ -23,6 +25,9 @@ You do not have to be a great artist to get your point across. Often sketches wi
 [12]:http://ux.mailchimp.com/patterns
 [13]:http://www.bbc.co.uk/gel
 [14]:http://styleguide.thenextweb.com
+[21]:http://en.wikipedia.org/wiki/Automated_teller_machine
+[22]:http://www.ideo.com/uk
+[23]:http://www.ideo.com/work/redefining-self-service-banking-for-bbva/
 
 ###User Journeys
 The workshop looked at user journeys asking you to consider the pathway people will have to take to reach their goal. Amazon for example make the process of purchasing goods as simple as possible to ensure you are met with a seamless journey from finding what you want, adding it to your shopping cart and checking out. 
