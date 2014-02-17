@@ -12,7 +12,7 @@ You do not have to be a great artist to get your point across. Often sketches wi
 
 **Personas** will help you to develop a personality for your project but you should also consider who your typical user might be and ensure your site fits their needs. MailChimps Director of User Experience, Aarron Walter looked at personas in [Connected UX][9] on A List Apart.
 
-**Design principles** will not only help you develop a personality for your project but it will allow you to create a set of standards with which to stand by. Jeremy Keith has created an excellent list of [Design Principles.][10]
+**Design principles** will not only help you develop a personality for your project but it will allow you to create a set of standards with which to stand by. Jeremy Keith has created an excellent list of [Design Principles.][10] 
 
 **Design Pattern Libraries** can be an invaluable resource, it will save you time on repetitive tacks and allow you to build up a set of templates and stencils that suits your style. Paul Boag looks at [How and why to create a pattern library.][11] Notable pattern libraries include – [MailChip][12], [BBC][13] and [The Next Web.][14]
 
@@ -56,7 +56,7 @@ UX specialists Adaptive Path's [The Anatomy of an Experience Map][17] provides a
 
 >“Use the right language and we enhance a user’s passage through a site or application; use the wrong language and we stop a user dead in their tracks.” Chris Murphy & Nicklas Persson
 
-To grips with the voice and tone of your project you could do no better than read, [The Craft of Words Part One: Macrocopy][18] and [The Craft of Words Part Two: Microcopy][19]. At only £2.00 each you could download them now and have them read within a couple of hours.
+To get to grips with the voice and tone of your project you could do no better than read, [The Craft of Words Part One: Macrocopy][18] and [The Craft of Words Part Two: Microcopy][19]. At only £2.00 each you could download them now and have them read within a couple of hours.
 
 [18]:http://www.fivesimplesteps.com/products/the-craft-of-words
 [19]:http://www.fivesimplesteps.com/products/the-craft-of-words-microcopy
